@@ -1,4 +1,4 @@
-# Kalkulator Bangun Ruang
+# Kalkulator Bangun Persegi
 
 Hello,There!
 
